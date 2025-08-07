@@ -1,5 +1,5 @@
 # welcometogithub
-This is my first Git Repository.
+This is first Git Repository.
 <br>
 Deepak dangi
 
